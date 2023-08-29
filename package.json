@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-smartlook",
+  "name": "@crowdfarming/cordova-plugin-smartlook",
   "version": "1.9.5",
   "description": "Official Smartlook Cordova android plugin",
   "cordova": {
